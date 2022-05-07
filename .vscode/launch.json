@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch benjamin_bulbs",
+            "request": "launch",
+            "mainClass": "benjamin_bulbs",
+            "projectName": "java_64f3ec1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch gcd_and_lcm",
+            "request": "launch",
+            "mainClass": "gcd_and_lcm",
+            "projectName": "java_64f3ec1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "java_64f3ec1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch inverse_a_num",
+            "request": "launch",
+            "mainClass": "inverse_a_num",
+            "projectName": "java_64f3ec1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "java_64f3ec1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch prime_between_two_nums",
+            "request": "launch",
+            "mainClass": "prime_between_two_nums",
+            "projectName": "java_64f3ec1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch prime_facorization",
+            "request": "launch",
+            "mainClass": "prime_facorization",
+            "projectName": "java_64f3ec1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch pythagorean_triplet",
+            "request": "launch",
+            "mainClass": "pythagorean_triplet",
+            "projectName": "java_64f3ec1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverse_a_number",
+            "request": "launch",
+            "mainClass": "reverse_a_number",
+            "projectName": "java_64f3ec1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch rotate_a_num",
+            "request": "launch",
+            "mainClass": "rotate_a_num",
+            "projectName": "java_64f3ec1d"
+        }
+    ]
+}
